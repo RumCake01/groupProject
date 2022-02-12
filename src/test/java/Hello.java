@@ -4,6 +4,7 @@ public class Hello {
     public static void main(String[] args) {
         // another line of code
         String a = "git";
+        String b = "git learned";
 
 
     }
